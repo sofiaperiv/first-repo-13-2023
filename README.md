@@ -4,3 +4,4 @@ kapez
 ## ya lyublyu shashlyk
 ### i love meat
 zharena kurochka
+я пам'ятаю своє рідне село, де я лопатою черпав гівно
